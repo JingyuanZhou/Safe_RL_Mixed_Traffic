@@ -24,7 +24,7 @@ python main.py
 ```
 python plot_training_traj.py
 python visualize.py
-python plot_traj.py
+python plot_testing_traj.py
 python SafeRegion.py
 ```
 ### Citation
