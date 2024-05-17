@@ -2,7 +2,7 @@
 Code for the paper "Enhancing System-Level Safety in Mixed-Autonomy Platoon via Safe Reinforcement Learning" (IEEE Transaction on Intelligent Vehicles)
 [[PDF](https://ieeexplore.ieee.org/document/10462535)]
 
-![](assets/overview.pdf)
+![](assets/overview.jpg)
 
 **Abstract:**
 
