@@ -1,6 +1,6 @@
 # Safe RL for Mixed-Autonomy Traffic
-Code for the paper "Enhancing System-Level Safety in Mixed-Autonomy Platoon via Safe Reinforcement Learning" (IEEE Transactions on Intelligent Vehicles)
-[[PDF](https://ieeexplore.ieee.org/document/10462535)]
+Code for the papers "Enhancing System-Level Safety in Mixed-Autonomy Platoon via Safe Reinforcement Learning" (IEEE Transactions on Intelligent Vehicles)
+[[PDF](https://ieeexplore.ieee.org/document/10462535)] and "Enforcing Cooperative Safety for Reinforcement Learning-Based Mixed-Autonomy Platoon Control" (IEEE Transactions on Intelligent Transportation Systems)[[PDF](https://ieeexplore.ieee.org/document/11277300/)]
 
 ![](assets/overview.jpg)
 
